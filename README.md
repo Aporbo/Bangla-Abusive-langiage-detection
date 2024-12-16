@@ -1,4 +1,3 @@
-
 # Bangla Abusive Language Detection - Version 1
 
 ## Overview
@@ -93,7 +92,7 @@ The best-performing model was **Logistic Regression**, which achieved the highes
 ## How to Use
 
 1. Clone this repository and run the notebook file in Google Colab.
-2. Upload your dataset when prompted.
+2. Upload the dataset when prompted.
 3. Enter Bengali sentences for predictions and analysis.
 
 ---
